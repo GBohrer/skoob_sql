@@ -25,3 +25,6 @@ O SI escolhido foi o site Skoob (https://www.skoob.com.br), uma rede social cola
 * Alguns dados inseridos são meramente ilustrarivos;
 * Alguns dados não foram utilizados em consultas (exemplo: NOTAS ou LIVRO.TIPO/LIVRO.MODELO) pois necessitariam de procedimentos e gatilhos não formulados para * apresentarem resultados corretos e interessantes;
 * As Notas de um determinado Livro, por exemplo, deveriam ser a média de todas as Notas dadas em Estantes que referenciam o Livro. Sem este controle, as consultas * sobre as informações inseridas estariam erradas.
+
+## Feito Por:
+##      Gabriel Bohrer
